@@ -53,6 +53,10 @@ http://blog.typekit.com/2011/11/09/type-study-sizing-the-legible-letter/
 -------------------------------------------------------------- */
 
 @import url("css/bootstrap.css");
+	
+	.three {
+		display: inline;
+	}
 
 	.top {
 		font-size: 1000px;
