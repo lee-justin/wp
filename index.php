@@ -23,14 +23,12 @@ get_header(); ?>
   .carousel-inner > .item > img,
   .carousel-inner > .item > a > img {
     
-      /*width: 100%;*/
+      width: 100%;
       /*margin: auto;*/
   }
   </style>
 </head>
 <body>
-
-  <img src="pictures/1.JPG" alt="Chania" width="1000" height="345">
 
 <div class="container">
   <br>
