@@ -30,11 +30,8 @@
 <![endif]-->
 <?php wp_head(); ?>
 </head>
-
 <body <?php body_class(); ?>>
-
-
-
+	
 <!-- Class: site gives a white background -->
 <!-- Added to navigation bar -->
 <div id="page" class="hfeed">
@@ -43,6 +40,9 @@
 	<a href="http://52.35.169.165">
 		<img class="img-container" src="logos/main-logo.png">
 		</a>
+
+		<p class="login"><a href="http://52.35.169.165/blog/wp-login.php" class="btn btn-primary" role="button">Log In</a> 
+		<a href="#" class="btn btn-default" role="button">Register</a></p>
 
 		<nav id="site-navigation" class="main-navigation" role="navigation">
 			<button class="menu-toggle"><?php _e( 'Menu', 'oysterpointdragons' ); ?></button>

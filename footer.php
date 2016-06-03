@@ -9,7 +9,8 @@
  * @since Oyster Point Dragons 1.0
  */
 ?>
-	</div><!-- #main .wrapper -->
+</div><!-- #main .wrapper -->
+
 	<footer id="colophon" role="contentinfo">
 		<div class="site-info">
 			<?php do_action( 'oysterpointdragons_credits' ); ?>
