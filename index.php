@@ -111,7 +111,8 @@ get_header(); ?>
     </div><!-- #content -->
   </div><!-- #primary -->
 
-  <h1 style="font-family:courier; font-color:black"> Sponsors </h1>
+  <a name="sponsors"></a>
+  <h1 href="#sponsors" style="font-family:courier; font-color:black"> Sponsors </h1>
 <div class="well">
 <img src="pictures/sponsors/drakemarine_logo.jpg" alt="..." width="auto" height="auto">
 <img src="pictures/sponsors/opyc_logo.jpg" alt="..." width="650" height="auto">
